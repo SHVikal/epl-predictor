@@ -1,0 +1,141 @@
+{
+  "week_start": "2025-08-22",
+  "competition": "EPL",
+  "fixtures": [
+    {
+      "match_id": "PL-2025-08-22-WES-CHE",
+      "utc_kickoff": "2025-08-22T19:00:00Z",
+      "home": "West Ham United FC",
+      "away": "Chelsea FC",
+      "probs": {
+        "home": 0.42673713991161455,
+        "draw": 0.253610883413496,
+        "away": 0.31965197667488937
+      },
+      "pick": "home",
+      "confidence": 0.42673713991161455
+    },
+    {
+      "match_id": "PL-2025-08-23-MAN-TOT",
+      "utc_kickoff": "2025-08-23T11:30:00Z",
+      "home": "Manchester City FC",
+      "away": "Tottenham Hotspur FC",
+      "probs": {
+        "home": 0.42673713991161455,
+        "draw": 0.253610883413496,
+        "away": 0.31965197667488937
+      },
+      "pick": "home",
+      "confidence": 0.42673713991161455
+    },
+    {
+      "match_id": "PL-2025-08-23-BRE-AST",
+      "utc_kickoff": "2025-08-23T14:00:00Z",
+      "home": "Brentford FC",
+      "away": "Aston Villa FC",
+      "probs": {
+        "home": 0.42673713991161455,
+        "draw": 0.253610883413496,
+        "away": 0.31965197667488937
+      },
+      "pick": "home",
+      "confidence": 0.42673713991161455
+    },
+    {
+      "match_id": "PL-2025-08-23-BOU-WOL",
+      "utc_kickoff": "2025-08-23T14:00:00Z",
+      "home": "Bournemouth",
+      "away": "Wolverhampton Wanderers FC",
+      "probs": {
+        "home": 0.4300892814431931,
+        "draw": 0.24267344281984612,
+        "away": 0.32723727573696093
+      },
+      "pick": "home",
+      "confidence": 0.4300892814431931
+    },
+    {
+      "match_id": "PL-2025-08-23-BUR-SUN",
+      "utc_kickoff": "2025-08-23T14:00:00Z",
+      "home": "Burnley FC",
+      "away": "Sunderland AFC",
+      "probs": {
+        "home": 0.42673713991161455,
+        "draw": 0.253610883413496,
+        "away": 0.31965197667488937
+      },
+      "pick": "home",
+      "confidence": 0.42673713991161455
+    },
+    {
+      "match_id": "PL-2025-08-23-ARS-LEE",
+      "utc_kickoff": "2025-08-23T16:30:00Z",
+      "home": "Arsenal FC",
+      "away": "Leeds United FC",
+      "probs": {
+        "home": 0.42673713991161455,
+        "draw": 0.253610883413496,
+        "away": 0.31965197667488937
+      },
+      "pick": "home",
+      "confidence": 0.42673713991161455
+    },
+    {
+      "match_id": "PL-2025-08-24-EVE-BRI",
+      "utc_kickoff": "2025-08-24T13:00:00Z",
+      "home": "Everton FC",
+      "away": "Brighton & Hove Albion FC",
+      "probs": {
+        "home": 0.42673713991161455,
+        "draw": 0.253610883413496,
+        "away": 0.31965197667488937
+      },
+      "pick": "home",
+      "confidence": 0.42673713991161455
+    },
+    {
+      "match_id": "PL-2025-08-24-CRY-NOT",
+      "utc_kickoff": "2025-08-24T13:00:00Z",
+      "home": "Crystal Palace FC",
+      "away": "Nottingham Forest FC",
+      "probs": {
+        "home": 0.42673713991161455,
+        "draw": 0.253610883413496,
+        "away": 0.31965197667488937
+      },
+      "pick": "home",
+      "confidence": 0.42673713991161455
+    },
+    {
+      "match_id": "PL-2025-08-24-FUL-MAN",
+      "utc_kickoff": "2025-08-24T15:30:00Z",
+      "home": "Fulham FC",
+      "away": "Manchester United FC",
+      "probs": {
+        "home": 0.42673713991161455,
+        "draw": 0.253610883413496,
+        "away": 0.31965197667488937
+      },
+      "pick": "home",
+      "confidence": 0.42673713991161455
+    },
+    {
+      "match_id": "PL-2025-08-25-NEW-LIV",
+      "utc_kickoff": "2025-08-25T19:00:00Z",
+      "home": "Newcastle United FC",
+      "away": "Liverpool FC",
+      "probs": {
+        "home": 0.42673713991161455,
+        "draw": 0.253610883413496,
+        "away": 0.31965197667488937
+      },
+      "pick": "home",
+      "confidence": 0.42673713991161455
+    }
+  ],
+  "model_meta": {
+    "algo": "logreg",
+    "features": "elo+form",
+    "version": "0.1.0"
+  }
+}
